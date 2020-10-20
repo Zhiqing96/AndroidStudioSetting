@@ -1,0 +1,14 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="I/zygote: Rejecting re-init on previously-failed class java.lang.Class&lt;androidx.core.view.ViewCompat$OnUnhandledKeyEventListenerWrapper&gt;: java.lang.NoClassDefFoundError: Failed resolution of: Landroid/view/View$OnUnhandledKeyEventListener;" />
+      <item value="Rejecting re-init on previously-failed" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="2" />
+      </map>
+    </option>
+  </component>
+</application>
